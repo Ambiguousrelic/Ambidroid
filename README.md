@@ -1,0 +1,2 @@
+# Ambidroid
+personal discord bot
